@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "fc832bcf2ac3dd791e41d940a7c3bc1e",
 # 模板消息id
-"template_id": "vZSEG_PFEeMWLtWpiGQCGoSUOcxwMZHW8ZjIw-Y-8XE",
+"template_id": "vxdc64UOt1zf3dvPMCwfVs1cL5fPjGo22tSNYbJx-Dw",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oW4oy5_27J8ag5wJJA0woUcwhvYE","oW4oy58MdUm6GP6RXcLWabo4fBYQ"],
  
@@ -17,9 +17,9 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "洪山区",
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "猪宝", "birthday": "1995-04-06"},
+"birthday1": {"name": "💩宝", "birthday": "1995-04-06"},
 # 生日2
-"birthday2": {"name": "维尼🐻", "birthday": "r1995-04-02"},
+"birthday2": {"name": "维尼🐻", "birthday": "1995-04-02"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
 "commemoration_day1": "2017-08-31",
 # 纪念日2，同上
